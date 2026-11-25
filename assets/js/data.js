@@ -22,4 +22,4 @@ lessons:[
 {id:'heart-failure',cat:'cardiology',topic:'Heart Failure',title:'نارسایی قلب',en:'Heart Failure',desc:'طبقه‌بندی بر اساس EF و درمان‌های پایه',added:'2026-11-21',updated:'2026-11-21',views:210,file:'lessons/cardiology/heart-failure.html'},
 {id:'asthma',cat:'pulmonology',topic:'Asthma',title:'آسم',en:'Asthma',desc:'ارزیابی شدت حمله و درمان حاد و نگهدارنده',added:'2026-11-22',updated:'2026-11-23',views:180,file:'lessons/pulmonology/asthma.html'},
 {id:'anaphylaxis',cat:'emergency',topic:'Allergy',title:'آنافیلاکسی',en:'Anaphylaxis',desc:'تشخیص سریع و تزریق اپی‌نفرین',added:'2026-11-24',updated:'2026-11-24',views:260,file:'lessons/emergency/anaphylaxis.html'}
-]};{id:'aortic-diseases', cat:'cardiology', topic:'Aortic Diseases', title:'بیماری‌های آئورت', en:'Aortic Diseases', desc:'تشخیص و درمان بیماری‌های آئورت', added:'2026-11-25', updated:'2026-11-25', views:0, file:'lessons/cardiology/aortic-diseases.html'}
+]};
